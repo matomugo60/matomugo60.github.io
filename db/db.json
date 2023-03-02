@@ -1,5 +1,5 @@
-{
-  "animals": [
+
+   [
     {
       "id": 1,
       "name": "Buddy",
@@ -109,4 +109,4 @@
       "ownerName": "Melissa Davis"
     }
   ]
-  }
+  
