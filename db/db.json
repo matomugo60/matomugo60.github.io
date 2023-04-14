@@ -1,112 +1,101 @@
-
-   [
-    {
-      "id": 1,
-      "name": "Buddy",
-      "breed": "Golden Retriever",
-      "ownerName": "John Doe"
-    },
-    {
-      "id": 2,
-      "name": "Max",
-      "breed": "German Shepherd",
-      "ownerName": "Jane Smith"
-    },
-    {
-      "id": 3,
-      "name": "Luna",
-      "breed": "Labrador Retriever",
-      "ownerName": "Mike Johnson"
-    },
-    {
-      "id": 4,
-      "name": "Charlie",
-      "breed": "Poodle",
-      "ownerName": "Mary Wilson"
-    },
-    {
-      "id": 5,
-      "name": "Rocky",
-      "breed": "Boxer",
-      "ownerName": "David Lee"
-    },
-    {
-      "id": 6,
-      "name": "Lucy",
-      "breed": "Bulldog",
-      "ownerName": "Samantha Green"
-    },
-    {
-      "id": 7,
-      "name": "Bailey",
-      "breed": "Beagle",
-      "ownerName": "Adam Brown"
-    },
-    {
-      "id": 8,
-      "name": "Daisy",
-      "breed": "Yorkshire Terrier",
-      "ownerName": "Emily Wilson"
-    },
-    {
-      "id": 9,
-      "name": "Molly",
-      "breed": "Chihuahua",
-      "ownerName": "Mark Davis"
-    },
-    {
-      "id": 10,
-      "name": "Lucky",
-      "breed": "Shih Tzu",
-      "ownerName": "Lisa Johnson"
-    },
-    {
-      "id": 11,
-      "name": "Cooper",
-      "breed": "Siberian Husky",
-      "ownerName": "Brian Wilson"
-    },
-    {
-      "id": 12,
-      "name": "Bella",
-      "breed": "Dachshund",
-      "ownerName": "Jessica Lee"
-    },
-    {
-      "id": 13,
-      "name": "Zoe",
-      "breed": "Doberman Pinscher",
-      "ownerName": "Andrew Davis"
-    },
-    {
-      "id": 14,
-      "name": "Toby",
-      "breed": "Rottweiler",
-      "ownerName": "Michelle Brown"
-    },
-    {
-      "id": 15,
-      "name": "Maggie",
-      "breed": "Great Dane",
-      "ownerName": "Kevin Wilson"
-    },
-    {
-      "id": 16,
-      "name": "Sadie",
-      "breed": "French Bulldog",
-      "ownerName": "Catherine Lee"
-    },
-    {
-      "id": 17,
-      "name": "Ginger",
-      "breed": "Australian Shepherd",
-      "ownerName": "James Johnson"
-    },
-    {
-      "id": 18,
-      "name": "Chloe",
-      "breed": "Border Collie",
-      "ownerName": "Melissa Davis"
-    }
-  ]
+[
+  {
+    "id": 1,
+    "description": "Friendly and loyal companion",
+    "type": "Dog",
+    "breed": "Golden Retriever",
+    "age": 3,
+    "weight": "70 lbs",
+    "price": "$1,200"
+  },
+  {
+    "id": 2,
+    "description": "Intelligent and courageous breed",
+    "type": "Dog",
+    "breed": "German Shepherd",
+    "age": 2,
+    "weight": "80 lbs",
+    "price": "$1,500"
+  },
+  {
+    "id": 3,
+    "description": "Affectionate and outgoing breed",
+    "type": "Dog",
+    "breed": "Labrador Retriever",
+    "age": 1,
+    "weight": "65 lbs",
+    "price": "$1,000"
+  },
+  {
+    "id": 4,
+    "description": "Intelligent and elegant breed",
+    "type": "Dog",
+    "breed": "Poodle",
+    "age": 4,
+    "weight": "45 lbs",
+    "price": "$1,800"
+  },
+  {
+    "id": 5,
+    "description": "Playful and energetic breed",
+    "type": "Dog",
+    "breed": "Boxer",
+    "age": 2,
+    "weight": "75 lbs",
+    "price": "$1,300"
+  },
+  {
+    "id": 6,
+    "description": "Friendly and determined breed",
+    "type": "Dog",
+    "breed": "Bulldog",
+    "age": 5,
+    "weight": "50 lbs",
+    "price": "$2,000"
+  },
+  {
+    "id": 7,
+    "description": "Lively and curious breed",
+    "type": "Dog",
+    "breed": "Beagle",
+    "age": 2,
+    "weight": "25 lbs",
+    "price": "$800"
+  },
+  {
+    "id": 8,
+    "description": "Small and energetic breed",
+    "type": "Dog",
+    "breed": "Yorkshire Terrier",
+    "age": 3,
+    "weight": "7 lbs",
+    "price": "$1,500"
+  },
+  {
+    "id": 9,
+    "description": "Charming and sassy breed",
+    "type": "Dog",
+    "breed": "Chihuahua",
+    "age": 2,
+    "weight": "3 lbs",
+    "price": "$1,000"
+  },
+  {
+    "id": 10,
+    "description": "Friendly and affectionate breed",
+    "type": "Dog",
+    "breed": "Shih Tzu",
+    "age": 4,
+    "weight": "10 lbs",
+    "price": "$1,200"
+  },
+  {
+    "id": 11,
+    "description": "Friendly and outgoing breed",
+    "type": "Dog",
+    "breed": "Siberian Husky",
+    "age": 1,
+    "weight": "60 lbs",
+    "price": "$1,700"
+  } ]
   
